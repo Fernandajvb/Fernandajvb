@@ -9,10 +9,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fernandajvb/Fernandajvb/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fernandajvb/Fernandajvb/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fernandajvb/Fernandajvb/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNzMjZkY25hdDVwYTY3ZXZrODFreHNzN2NwdGQwcjFlaHprOGJjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Fernandajvb/Fernandajvb/output/snake.svg" alt="Snake animation" />
 
 ###
