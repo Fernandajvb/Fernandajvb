@@ -16,7 +16,7 @@
   "name" : "Fernanda Ventura Briceño",
   "data" : {
     "LinkedIn"  : "https://www.linkedin.com/in/fernandajvb/",
-    "Instagram" : "https://instagram.com/fernadajvb",
+    "Instagram" : "https://instagram.com/fernandajvb",
     "Discord"   : "https://discord.com/users/ferjvb"
   }
 }
