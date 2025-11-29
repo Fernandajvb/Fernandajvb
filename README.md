@@ -52,7 +52,7 @@ about_me = {
 
 ###
 <p align="center">
-  ✨ <i>Siempre aprendiendo. Siempre mejorando.</i> ✨
+  ✨ <i>Siempre aprendiendo, Siempre mejorando.</i> ✨
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
