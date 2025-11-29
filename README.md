@@ -12,7 +12,14 @@
 
 ###
 ```
-<p align="left">{ <br>   “name” : “Fernanda Ventura Briceño”<br>   “data” : <br>     { <br>      "LinkedIn"  : "https://www.linkedin.com/in/fernandajvb/", <br>      "Instagram" : "https://instagram.com/fernadajvb",<br>"Discord": "https://discord.com/users/ferjvb"<br>     }<br> }</p>
+{
+  "name" : "Fernanda Ventura Briceño",
+  "data" : {
+    "LinkedIn"  : "https://www.linkedin.com/in/fernandajvb/",
+    "Instagram" : "https://instagram.com/fernadajvb",
+    "Discord"   : "https://discord.com/users/ferjvb"
+  }
+}
 ```
 ###
 
