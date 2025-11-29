@@ -54,8 +54,9 @@
 </div>
 
 ###
-<div align="center">
-✨ _Siempre aprendiendo. Siempre mejorando._
+<p align="center">
+  ✨ <i>Siempre aprendiendo. Siempre mejorando.</i> ✨
+</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
 
