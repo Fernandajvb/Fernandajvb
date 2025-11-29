@@ -54,7 +54,7 @@
 </div>
 
 ###
-
+<div align="center">
 ✨ _Siempre aprendiendo, siempre creando._
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
