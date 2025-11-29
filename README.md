@@ -17,7 +17,6 @@ about_me = {
         "Discord": "https://discord.com/users/ferjvb"
     }
 }
-
 ```
 ###
 
