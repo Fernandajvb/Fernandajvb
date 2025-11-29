@@ -20,7 +20,7 @@ about_me = {
 ```
 ###
 
-<h2 align="left">My Skill Set</h2>
+<h2 align="left">My skill set… I think 😅</h2>
 
 ###
 
