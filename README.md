@@ -8,18 +8,16 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
 ```
-{
-  "name" : "Fernanda Ventura Briceño",
-  "data" : {
-    "LinkedIn"  : "https://www.linkedin.com/in/fernandajvb/",
-    "Instagram" : "https://instagram.com/fernandajvb",
-    "Discord"   : "https://discord.com/users/ferjvb"
-  }
+about_me = {
+    "name": "Fernanda Ventura Briceño",
+    "data": {
+        "LinkedIn": "https://www.linkedin.com/in/fernandajvb/",
+        "Instagram": "https://instagram.com/fernandajvb",
+        "Discord": "https://discord.com/users/ferjvb"
+    }
 }
+
 ```
 ###
 
