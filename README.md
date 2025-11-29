@@ -20,7 +20,7 @@ about_me = {
 ```
 ###
 
-<h2 align="left">My skill set… I think 😅</h2>
+<h2 align="left">My skill set</h2>
 
 ###
 
@@ -50,7 +50,7 @@ about_me = {
 
 ###
 <p align="center">
-  ✨ <i>Siempre aprendiendo, Siempre mejorando.</i> ✨
+  ✨ <i>Always learning, always improving.</i> ✨
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
