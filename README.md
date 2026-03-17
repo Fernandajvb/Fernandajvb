@@ -47,13 +47,18 @@ about_me = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo" />
+  
 </div>
 
 <br />
 
 <h4 align="left">Backend</h4>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo" />
