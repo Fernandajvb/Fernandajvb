@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNzMjZkY25hdDVwYTY3ZXZrODFreHNzN2NwdGQwcjFlaHprOGJjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kspVl6FzbdblOMKRmM/giphy.gif"  />
 </div>
@@ -18,46 +17,29 @@ about_me = {
     }
 }
 ```
+
 ###
 
 <h2 align="left">My skill set</h2>
 
 ###
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="left">Programming Languages</h4>
-      <div align="left">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-        <img width="8" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-        <img width="8" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="left">Tools & Technologies</h4>
-      <div align="left">
-        <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="40" alt="atlassian logo" />
-        <img width="8" />
-        <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />
-        <img width="8" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-        <img width="8" />
-        <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
-        <img width="8" />
-        <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo" />
-      </div>
-    </td>
-  </tr>
-</table>
+<h4 align="left">Programming Languages</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+</div>
 
 <br />
 
 <h4 align="left">Frontend Development</h4>
 <div align="left">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind logo" />
   <img width="12" />
@@ -83,6 +65,18 @@ about_me = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
 
+<br />
+
+<h4 align="left">Tools & Technologies</h4>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0079BF" height="40" alt="trello logo" />
+</div>
 
 ###
 <p align="center">
