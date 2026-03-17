@@ -24,7 +24,7 @@ about_me = {
 
 ###
 
-<h4 align="left">Languages</h4>
+<h4 align="left">Programming Languages</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
