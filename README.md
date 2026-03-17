@@ -22,33 +22,63 @@ about_me = {
 
 ###
 
+<h2 align="left">My skill set</h2>
+
+###
+
 <h4 align="left">Programming Languages</h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+</div>
+
+<br />
 
 <h4 align="left">Frontend Development</h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap,html,css" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/primeng/911021" height="40" alt="primeng logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo" />
+</div>
+
+<br />
 
 <h4 align="left">Backend Development</h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,mysql" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+</div>
+
+<br />
 
 <h4 align="left">Tools & Technologies</h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,jira,trello" />
-  </a>
-</p>
+<div align="left">
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/trello/0079BF" height="40" alt="trello logo" />
+</div>
 
 ###
 <p align="center">
