@@ -18,7 +18,6 @@ about_me = {
     }
 }
 ```
-<h2 align="left">My skill set</h2>
 
 ###
 
