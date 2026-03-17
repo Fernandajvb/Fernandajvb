@@ -35,7 +35,7 @@ about_me = {
 
 <h4 align="left">Frontend Development</h4>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
+  <img src="https://cdn.simpleicons.org/angular/0F0703" height="40" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind logo" />
   <img width="12" />
