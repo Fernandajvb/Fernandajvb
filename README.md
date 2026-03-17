@@ -33,8 +33,6 @@ about_me = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-<br />
-
 <h4 align="left">Frontend Development</h4>
 <div align="left">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
