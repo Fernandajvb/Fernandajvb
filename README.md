@@ -50,8 +50,6 @@ about_me = {
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo" />
 </div>
 
-<br />
-
 <h4 align="left">Backend Development</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
@@ -62,8 +60,6 @@ about_me = {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
-
-<br />
 
 <h4 align="left">Tools & Technologies</h4>
 <div align="left">
