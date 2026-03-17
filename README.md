@@ -65,8 +65,6 @@ about_me = {
 
 <h4 align="left">Tools & Technologies</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
