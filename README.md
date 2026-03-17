@@ -63,6 +63,10 @@ about_me = {
 <div align="left">
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/pnpm/F69220" height="40" alt="pnpm logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
